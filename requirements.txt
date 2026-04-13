@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+prophet
+matplotlib
+plotly
+dash
+streamlit
+tqdm
+jupyterlab
